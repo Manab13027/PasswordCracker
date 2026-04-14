@@ -1,6 +1,6 @@
 #!/bin/bash
 GITHUB_USER="Manab13027"
-REPO_NAME="PasswordCracker"
+REPO_NAME="AI"
 
 git init
 git add .
