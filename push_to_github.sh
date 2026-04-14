@@ -1,6 +1,6 @@
 #!/bin/bash
 GITHUB_USER="Manab13027"
-REPO_NAME="Utilities"
+REPO_NAME="PasswordCracker"
 
 echo "Paste your GitHub Personal Access Token and press Enter:"
 read -s TOKEN
